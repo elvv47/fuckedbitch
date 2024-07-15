@@ -1,1 +1,7 @@
-"hypixel.net"
+{
+  "servers": [
+    "ruhypixel.ru",
+    "play.example2.com",
+    "play.example3.com"
+  ]
+}
